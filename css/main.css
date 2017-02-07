@@ -1,0 +1,68 @@
+body {
+	background: url("../img/bg.jpg") 0 0 no-repeat;
+	color: #333;
+}
+
+h1 {
+	font-weight: bolder;
+	color: #4B0082;
+	margin-bottom: 50px;
+}
+
+input,select, textarea {
+	margin-bottom: 20px !important;
+}
+
+.input-group {
+	width: 100%;
+}
+
+#idade, #altura, #peso, #level, #vida, #mana {
+	width: 100% !important;
+}
+
+input[type="radio"] {
+	margin-right: 20px;
+}
+
+span.obs {
+	display: inline-block;
+	font-size: 12px;
+	width: 70% !important;
+}
+
+#random {
+	width: 64px;
+	height: 64px;
+	border: none;
+	outline: none;
+	background: transparent url("../img/d20.png") 0 0 no-repeat;
+}
+
+body.white {
+	background-color: #fff !important;
+	background-image: none !important;
+}
+h1.alt {
+	color: #777 !important;
+	font-size: 50px !important;
+	margin-bottom: 0 !important;
+}
+strong {
+	margin-right: 10px;
+}
+span.info {
+	margin-right: 20px;
+}
+.list-group {
+	width: 70% !important;
+}
+.list-group.pequeno {
+	width: 40% !important;
+}
+.list-group-item {
+	border-color: #C0C0C0 !important;
+}
+.infoHistoria {
+	padding-left: 30px;
+}
